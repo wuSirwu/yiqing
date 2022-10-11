@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21aeb7"],{be20:function(t,i,n){"use strict";n.r(i);var e=function(){var t=this,i=t._self._c;return i("div",[i("h2",[t._v(t._s(t.cityname)+"--城市界面")]),i("div",{staticStyle:{width:"7.5rem",height:"9rem"},attrs:{id:"main"}})])},a=[],c=(n("365c"),{props:["cityname"],mounted(){this.$myChart.cityMap("main","内蒙古",[])}}),s=c,r=n("0b56"),u=Object(r["a"])(s,e,a,!1,null,null,null);i["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d21aeb7.08dad0d6.js.map
